@@ -1,6 +1,6 @@
 # youtube-vue
 
-> A Vue.js project
+> A Vue.js project based on [this](https://www.youtube.com/watch?v=z6hQqgvGI4Y) lesson online 
 
 ## Build Setup
 
